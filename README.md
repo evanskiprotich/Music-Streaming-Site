@@ -68,3 +68,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+A streaming site created using React JavaScript, with bootstrap. Auth0 is an extensible authentication and authorization system that is simple to set up. It also provides a complete identity and access management system that works right out of the box, with the ability to customize, expand, and develop new features as needed. Cloudinary provides a secure and comprehensive API for uploading media files fast and efficiently from the server-side, the browser, or a mobile application. We can upload media assets using Cloudinary's REST API or client libraries (SDKs). These SDKs wrap the upload API and make it easier to integrate with websites and mobile apps.
